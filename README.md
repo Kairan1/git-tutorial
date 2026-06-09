@@ -215,7 +215,7 @@ This section presents the user interfaces developed for the EcoBite system. The 
 
 ### 9.1 Home Page
 
-The home page serves as the landing page of the EcoBite application. It introduces the platform and its core objective of reducing food waste by connecting vendors with students. The page features a hero section with a call-to-action for browsing meals and accessing the vendor portal, along with statistics showcasing meals rescued, students served, and food waste reduced.
+The home page serves as the landing page of the EcoBite application. It introduces the platform and its core objective of reducing food waste by connecting verndors with students. The page features a hero section with a call-to-action for browsing meals and accessing the vendor portal, along with statistics showcasing meals rescued, students served, and food waste reduced.
 
 > **Figure 1:** EcoBite Home Page
 
